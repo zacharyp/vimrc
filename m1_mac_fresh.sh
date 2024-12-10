@@ -54,3 +54,7 @@ nvm use v20.9.0
 
 ## rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+
+## update bash (macos comes with ancient bash version)
+brew install bash
